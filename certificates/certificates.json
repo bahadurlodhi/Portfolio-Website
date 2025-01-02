@@ -1,0 +1,17 @@
+[
+  {
+    "name": " Java (Basic)",
+    "image": "c6",
+    "category": "mern"
+  },
+  {
+    "name": "Python (Basic)",
+    "image": "c7",
+    "category": "basicweb"
+  },
+  {
+    "name": "Problem Solving (Basic)",
+    "image": "c8",
+    "category": "basicweb"
+  }
+]
